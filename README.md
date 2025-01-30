@@ -72,15 +72,12 @@ The classic **Rock Paper Scissors** game, allowing users to play against the com
 ## Installation & Setup 🛠️
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/game-bundle.git
-   cd game-bundle
+   git clone https://github.com/Dayanshi123/GameMania.git
+   cd gameMaina
    ```
 2. Run the desired game:
    ```sh
-   python snake_ladder.py  # For Snake & Ladder
-   python minesweeper.py  # For Minesweeper
-   python sudoku_solver.py  # For Sudoku Solver
-   python rock_paper_scissors.py  # For Rock Paper Scissors
+   GameMania.cpp
    ```
 
 ---
